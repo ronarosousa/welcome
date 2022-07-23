@@ -2,12 +2,12 @@
 
 <div align="center">
     <h1>Olá!👋 Eu sou Ronaro Sousa</h1>
-  </div>
-  <div align="center">
-    <a href="https://github.com/ronarosousa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldoandre&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoandre&layout=compact&langs_count=7"/>
-  </div>
+</div>
+  #<div align="center">
+    #<a href="https://github.com/ronarosousa">
+    #<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldoandre&show_icons=true&include_all_commits=true&count_private=true"/>
+    #<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoandre&layout=compact&langs_count=7"/>
+ #</div>
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
