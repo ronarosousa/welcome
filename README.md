@@ -1,5 +1,3 @@
-# welcome
-
 <div align="center">
     <h1>Olá!👋 Eu sou Ronaro Sousa</h1>    
 </div>
